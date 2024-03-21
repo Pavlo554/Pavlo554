@@ -16,10 +16,6 @@
           <br>PAWN
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=sass" width="60" height="60" alt="Sass" />
-          <br>Sass
-        </td>
-        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="css" />
           <br>css
         </td>
@@ -38,10 +34,6 @@
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" alt="cpp" />
           <br>cpp
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="bootstrap" />
-          <br>bootstrap
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=bots" width="60" height="60" alt="bots" />
