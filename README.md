@@ -47,10 +47,6 @@
             <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="nodejs" />
           <br>nodejs
         </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=npm" width="60" height="60" alt="npm" />
-          <br>npm
-        </td>
          <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=php" width="60" height="60" alt="php" />
           <br>php
