@@ -73,5 +73,3 @@
         </td>
      </tr>
 </table>
-
-### :open_file_folder: &nbsp;Technologies of interest
