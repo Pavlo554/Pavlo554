@@ -3,7 +3,7 @@
 ✍️ &nbsp;I am developing game mods and web applications.\
 ✉️ &nbsp;You can contact me through my Disocrd/Telegram whenever you want for a project, question or even a coffee...
 
-✍️ &nbsp;Розробляю ігрові модифікації та веб-додатки.\nbsp
+✍️ &nbsp;Розробляю ігрові модифікації та веб-додатки.\
 ✉️ &nbsp;Ви можете зв'язатися зі мною через мій Disocrd/Telegram в будь-який час, щоб обговорити проект, питання або навіть випити кави...
 
 <img alt="Night Coding" src="https://i.imgur.com/MfXGIDb.png" width="320" height="320" align="right"/> 
