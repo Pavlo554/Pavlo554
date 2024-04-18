@@ -20,14 +20,6 @@
           <br>MySQL
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="html" />
-          <br>html
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="css" />
-          <br>css
-        </td>
-        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" alt="cpp" />
           <br>cpp
         </td>
