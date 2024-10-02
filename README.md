@@ -1,35 +1,11 @@
-## Hi there 👋
-
-<!--
-**Pavlo554/Pavlo554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-## Hey 👋, I'm [NAT2K15!](https://github.com/nat2k15/)
+## Hey 👋, I'm [Pasha!](https://github.com/Pavlo554)
 
 <img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/756590322921767002/810784341286060062/2314.gif" />
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/RquDVTfDwu)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/fqqt9k6tA8)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://nat2k15.xyz)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/nat2k15)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=nat2k15&label=Views&color=blue&style=plastic)
-
-
-Join my discord https://discord.gg/RquDVTfDwu
-
-[![NAT Badge](https://img.shields.io/badge/TEAM-NAT2K15%20DEVELOPMENT-17a6ec?style=for-the-badge)](https://github.com/nat2k15)
+Join my discord https://discord.gg/fqqt9k6tA8
 
 <!-- <img align="right" height="215" width="325" alt="" src="https://cdn.discordapp.com/attachments/812460010868441178/815411857090543616/Pre_comp_7.gif" /> -->
 
@@ -47,10 +23,7 @@ Join my discord https://discord.gg/RquDVTfDwu
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-333333?style=flat&logo=bootstrap)&nbsp;
-![Markdown](https://img.shields.io/badge/-markdown-333333?style=flat&logo=markdown)&nbsp;
-![CFX.re](https://forum.cfx.re/uploads/default/optimized/4X/3/8/7/38769c61a46ed86700c737079f043c5ae89673a0_2_32x32.png)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Stats
