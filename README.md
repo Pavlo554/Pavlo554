@@ -32,7 +32,7 @@ Join my discord https://discord.gg/fqqt9k6tA8
 <a href="https://github.com/nat2k15">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api
     username=Pavlo554&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nat2k15&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pavlo554&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
