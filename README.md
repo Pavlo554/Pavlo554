@@ -11,13 +11,13 @@ Join my discord https://discord.gg/fqqt9k6tA8
 
 
 ### Some Highlights:
-
+<!--
 - 💻 &nbsp; [FiveM loading screen](https://github.com/NAT2K15/fivem-loading)
 - 💻 &nbsp; [PayPal Discord Bot V2](https://github.com/NAT2K15/paypal-bot-v2)
 - 💻 &nbsp; [FiveM Ban Checker](https://github.com/NAT2K15/ban-checker)
 - 💻 &nbsp; [Google Form to Discord](https://github.com/NAT2K15/form-to-discord)
 - 💻 &nbsp; [FiveM Chat Clear](https://github.com/NAT2K15/chat-clear)
-
+-->
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
@@ -39,15 +39,10 @@ Join my discord https://discord.gg/fqqt9k6tA8
 
 ### ⚙️ My Resources & Tools:
 
-- OS: Windows 11 PRO && ubuntu 20.04
-- Laptop: HP (Linux)
+- OS: Windows 10 PRO
 - Gaming PC: Normal specs
 - Browser: Chrome, Opera and Brave
 - Code Editor: VSCode - Notepad++ 
-- Stay Updated: [Discord](https://discord.gg/RquDVTfDwu), and [Email](mailto:nat2k15email@gmail.com)
+- Stay Updated: [Discord](https://discord.gg/fqqt9k6tA8)
 
----
 
-<h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
-
----
